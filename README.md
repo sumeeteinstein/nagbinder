@@ -55,6 +55,5 @@ In our package, we have provided 6 different machine learning models which utili
 - Method '1' is Support Vector Classifier which utilizes binary profile of the pattern as an input feature.
 - Method '2' is Random Forest Classifier which also utilizes binary profile of the pattern as an input feature. 
 - Method '3' is Artificial Neural Network model developed using binary profile of the pattern as input feature. 
-- Method '4' is K Nearest Neighbor method developed using binary profile of the pattern as input feature.
-- Method '5' is Support Vector Classifier which utilizes evolutionary information in the form of PSSM profile as an input feature.
-- Method '6' is Random Forest classifier which also utilizes evolutionary information in the form of PSSM profile as an input feature. The PSSM profile is generated using PSI-BLAST by running against the SwissProt database.
+- Method '4' is Support Vector Classifier which utilizes evolutionary information in the form of PSSM profile as an input feature.
+- Method '5' is Random Forest classifier which also utilizes evolutionary information in the form of PSSM profile as an input feature. The PSSM profile is generated using PSI-BLAST by running against the SwissProt database.
